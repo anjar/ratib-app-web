@@ -7,17 +7,18 @@ type Props = {
 };
 
 const Header = dynamic(() => import('components/Header' /* webpackChunkName: "header" */));
+const Navbar = dynamic(() => import('components/Navbar' /* webpackChunkName: "navbar" */));
 
 const BaseLayout:FunctionComponent<Props> = ({ children } : Props) => (
-  <>
+  <div className="container mx-auto max-w-screen-sm">
 
     <Header />
-    <main className="container mx-auto max-w-screen-sm">
+    <main >
       {children}
     </main>
-    <Footer />
+    <Navbar />
 
-  </>
+  </div>
 );
 BaseLayout.defaultProps = {
   children: '',
