@@ -1,0 +1,393 @@
+{
+  "id": "Ratib Al-attas",
+  "arab": "راتب العطاس",
+  "en": "Ratib Al-attas",
+  "pre-tawassul": [{
+      "sequence": 1,
+      "text": {
+        "arab": "اَلْفَاتِحَةُ اِلَى حَضْرَةِ النَّبِيِّ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَآلِهِ وَسَلَّمَ, ثُمَّ اِلَى رُوْحِ صَاحِبِ الرَّاتِبِ اَلْحَبِيْبِ عُمَرْ بِنْ عَبْدِالرَّحْمَنِ الْعَطَّاسْ, وَ الشَّيْخِ عَلِيِّ بْنِ عَبْدِ اللهِ بَارَاسْ, بِسِرِ الْفَا تِحَةْ",
+        "latin": "Alfatehah ilaa hadlroti  nabbiyi muhammadin shollallahu ‘alahi wassalam. Tsuma ilaa ruuhi Shohibirrotib Al Habib Husain Bin  bin Abdurrohman Al Athos, Wa  Syaih ‘ali  bin ‘Abdullah baaros . bisiril fatihah"
+      },
+      "translation": {
+        "id": "-",
+        "en": "-"
+      },
+      "type": "pre-verse"
+    }],
+  "verses": [
+    {
+      "sequence": 2,
+      "repeat": 3,
+      "text": {
+        "arab": "اَعُوْذُبِا للهِ السَّمِيْعِ الْعَلِيْمِ مِنَ الشَّيْطَا نِ الرَّجِيْمِ",
+        "latin": "A’udzubillahis sami il ‘alim minasysyaithonirrojim"
+      },
+      "translation": {
+        "id": "Aku berlindung pada Allah Yang Maha Mendengar lagi Maha Mengetahui dari godaan Syethan yang terkutuk",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 3,
+      "repeat": 1,
+      "text": {
+        "arab": "لَوۡ اَنۡزَلۡنَا هٰذَا الۡقُرۡاٰنَ عَلٰى جَبَلٍ لَّرَاَيۡتَهٗ خَاشِعًا مُّتَصَدِّعًا مِّنۡ خَشۡيَةِ اللّٰهِ‌ؕ وَتِلۡكَ الۡاَمۡثَالُ نَضۡرِبُهَا لِلنَّاسِ لَعَلَّهُمۡ يَتَفَكَّرُوۡنَ",
+        "latin": "Law anzalnaa haazal quraana 'alaa jabilil lara aytahuu khaashi'am muta saddi'am min khashiyatil laah; wa tilkal amsaalu nadribuhaa linnaasi la'allahum yatafakkaruun"
+      },
+      "translation": {
+        "id": "Sekiranya Kami turunkan Al-Qur'an ini kepada sebuah gunung, pasti kamu akan melihatnya tunduk terpecah belah disebabkan takut kepada Allah. Dan perumpamaan-perumpamaan itu Kami buat untuk manusia agar mereka berpikir",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 4,
+      "repeat": 1,
+      "text": {
+        "arab": "هُوَ اللّٰهُ الَّذِىۡ لَاۤ اِلٰهَ اِلَّا هُوَ‌ ۚ عٰلِمُ الۡغَيۡبِ وَالشَّهَادَةِ‌ ۚ هُوَ الرَّحۡمٰنُ الرَّحِيۡمُ",
+        "latin": "Huwal-laahul-lazii laaa Ilaaha illaa Huwa 'Aalimul Ghaibi wash-shahaada; Huwar Rahmaanur-Rahiim"
+      },
+      "translation": {
+        "id": "Dialah Allah tidak ada tuhan selain Dia. Yang Mengetahui yang gaib dan yang nyata, Dialah Yang Maha Pengasih, Maha Penyayang",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 5,
+      "repeat": 1,
+      "text": {
+        "arab": "هُوَ اللّٰهُ الَّذِىۡ لَاۤ اِلٰهَ اِلَّا هُوَ‌ۚ اَلۡمَلِكُ الۡقُدُّوۡسُ السَّلٰمُ الۡمُؤۡمِنُ الۡمُهَيۡمِنُ الۡعَزِيۡزُ الۡجَـبَّارُ الۡمُتَكَبِّرُ‌ؕ سُبۡحٰنَ اللّٰهِ عَمَّا يُشۡرِكُوۡنَ",
+        "latin": "Huwal-laahul-lazii laaa Ilaaha illaa Huwal-Malikul Qudduusus-Salaamul Muminul Muhaiminul-'aAziizul Jabbaarul-Mutakabbir; Subhaanal laahi 'Ammaa yushrikuun"
+      },
+      "translation": {
+        "id": " Dialah Allah tidak ada tuhan selain Dia. Maharaja, Yang Mahasuci, Yang Mahasejahtera, Yang Menjaga Keamanan, Pemelihara Keselamatan, Yang Mahaperkasa, Yang Mahakuasa, Yang Memiliki Segala Keagungan, Mahasuci Allah dari apa yang mereka persekutukan",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 6,
+      "repeat": 1,
+      "text": {
+        "arab": "هُوَ اللّٰهُ الۡخَـالِـقُ الۡبَارِئُ الۡمُصَوِّرُ‌ لَـهُ الۡاَسۡمَآءُ الۡحُسۡنٰى‌ؕ يُسَبِّحُ لَهٗ مَا فِى السَّمٰوٰتِ وَالۡاَرۡضِ‌ۚ وَهُوَ الۡعَزِيۡزُ الۡحَكِيۡمُ",
+        "latin": "Huwal Laahul Khaaliqul Baari 'ul Musawwir; lahul Asmaaa'ul Husnaa; yusabbihu lahuu maa fis samaawaati wal ardi wa Huwal 'Aziizul Hakiim"
+      },
+      "translation": {
+        "id": "Dialah Allah Yang Menciptakan, Yang Mengadakan, Yang Membentuk Rupa, Dia memiliki nama-nama yang indah. Apa yang di langit dan di bumi bertasbih kepada-Nya. Dan Dialah Yang Mahaperkasa, Mahabijaksana",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 7,
+      "repeat": 3,
+      "text": {
+        "arab": "اَعُوْذُبِاللهِ السَّمِيْحِ اْلعَلِيْمِ مِنْ الشَّيْطَانِ الرَّجِيْمِ",
+        "latin": "A’udzubillahis sami il ‘alim minasysyaithonirrojim"
+      },
+      "translation": {
+        "id": "Aku berlindung pada Allah Yang Maha Mendengar lagi Maha Mengetahui dari godaan Syethan yang terkutuk",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 8,
+      "repeat": 3,
+      "text": {
+        "arab": "اَعُوْذُ بِكَلِمَاتِ اللهِ التَّا مَّاتِ مِنْ شَرِّمَا خَلَقَ",
+        "latin": "A’udzu bikalimatillaahittammati ming syarrimaakholaq"
+      },
+      "translation": {
+        "id": "Aku berlindung dengan kalimat-kalimat Allah Yang sempurna dari kejelekan sesuatu yang diciptakan",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 9,
+      "repeat": 3,
+      "text": {
+        "arab": "بِسْمِ اللهِ الَّذِيْ لاَيَضُرُّمَعَ اسْمِهِ شَىْءٌ فِى اْلاَرْضِ وَلاَفِى السَّمَاءِ وَهُوَ السَّمِيْعُ الْعَلِيْمُ",
+        "latin": "Bismillaahilladzi laa yadluru ma’asmihi syaiun fil ardli walaa fissama-I wahuwas samii ‘ul ‘alim"
+      },
+      "translation": {
+        "id": "Dengan nama Allah tidak akan bisa mencelakakan apa-apapun di bumi dan di langit bersama nama-Nya. Dia Maha Mendengar dan Maha Melihat",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 10,
+      "repeat": 10,
+      "text": {
+        "arab": "بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ.وَلاَحَوْلَ وَلاَ قُوَّةَ اِلاَّبِاللهِ الْعَلِيِّ الْعَظِيْمِ",
+        "latin": "Bismillaahir rohmaanir rohiim walaa haula walaa quwwata illaa billaa hil ‘aliyil ‘adhim"
+      },
+      "translation": {
+        "id": "Dengan nama Allah yang Maha Pengasih lagi Maha Penyayang. Tiada daya dan tiada kekuatan kecuali dari Allah Yang Maha Tinggi lagi Maha Agung",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 11,
+      "repeat": 3,
+      "text": {
+        "arab": " بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ",
+        "latin": "Bismillaahir rohmaanir rohiim"
+      },
+      "translation": {
+        "id": "Dengan nama Allah yang Maha Pengasih lagi Maha Penyayang",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 12,
+      "repeat": 3,
+      "text": {
+        "arab": "بِسْمِ اللهِ تَحَصَّنَّا بِاللهِ.بِسْمِ اللهِ تَوَكَّلْنَا بِا للهِ",
+        "latin": "Bismillaahi tahash shona billahi bismillaahi tawakkalna billlah"
+      },
+      "translation": {
+        "id": "Dengan nama Allah aku berlindung dengan Allah, Dengan nama Allah aku berserah diri kepada Allah",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 13,
+      "repeat": 3,
+      "text": {
+        "arab": "بِسْمِ اللهِ آمَنَّابِاللهِ. وَمَنْ يُؤْ مِنْ بِاللهِ لاَخَوْفٌ عَلَيْهِ",
+        "latin": "Bismillaahi amanna billahi wamayyukmimbillahi Laa khaufun ‘alaih"
+      },
+      "translation": {
+        "id": "Dengan nama Allah aku beriman kepada Allah. Barang siapa yang beriman kepada Allah maka tiada takut baginya",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 14,
+      "repeat": 3,
+      "text": {
+        "arab": "سُبْحَانَ اللهِ عَزَّاللهِ. سُبْحَانَ اللهِ جَلَّ اللهِ",
+        "latin": "Subhaanallahi ‘azzallahi Subhaanallahi jallallah"
+      },
+      "translation": {
+        "id": "Maha suci Allah, Maha Mulia Allah,Maha suci Allah Maha Agung Allah",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 15,
+      "repeat": 1,
+      "text": {
+        "arab": "سُبْحَانَ اللهِ وَبِحَمْدِهِ.سُبْحَانَ اللهِ الْعَظِيْمِ",
+        "latin": "Subhaanallahi wabihmamdihi Subhaanallaahil ‘adhim"
+      },
+      "translation": {
+        "id": "Maha suci Allah dan memuji kepada-Nya, Maha suci Allah yang Maha Agung",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 16,
+      "repeat": 4,
+      "text": {
+        "arab": "سُبْحَانَ اللهِ وَالْحَمْدُلِلَّهِ وَلآ اِلَهَ اِلاَّ اللهُ وَاللهُ اَكْبَرُ",
+        "latin": "Subhaanallahi walahamdu lillahi walaa ilaa ha illallahu waallahu akbar"
+      },
+      "translation": {
+        "id": "Maha suci Allah dan segala puji bagi Allah dan Tiada Tuhan kecuali Allah, dan Allah Maha Agung",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 17,
+      "repeat": 3,
+      "text": {
+        "arab": "يَالَطِيْفًا بِخَلْقِهِ يَاعَلِيْمًا بِخَلْقِهِ يَاخَبِيْرًا بِخَلْقِهِ. اُلْطُفْ بِنَايَالَطِيْفُ,يَاعَلِيْمُ يَاخَبِيْرً",
+        "latin": "Yaa lathifan bikholqihi Yaa ‘aliman bikholqihi Yaa Khobiron bikholqihi  ulthuf binaa Yaa lathif Yaa ‘alimu Yaa khobir"
+      },
+      "translation": {
+        "id": "Wahai yang Maha Pengasih dengan Makhluk-Nya wahai yang mengetahui dengan makhluk-Nya wahai yang maha waspada dengan makhluk-Nya, kasihanilah kami wahai yang Maha Pengasih, wahai yang Maha Mengetahui wahai yang maha waspada",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 18,
+      "repeat": 3,
+      "text": {
+        "arab": "يَا لَطِيْفًا لَمْ يَزَلْ. اُلْطُفْ بِنَافِيْمَانَزَلْ اِنَّكَ لَطِيْفٌ لَمْ تَزَلْ. اُلْطُفْ بِنَاوَ الْمُسْلِمِيْنَ",
+        "latin": "Yaa lathiifal lam yazal ulthuf binaa fiimaa nazal innaka lathiful lam tazal ulthuf bina wal muslimin"
+      },
+      "translation": {
+        "id": "Wahai yang Maha Pengasih yang tiada putus, kasihanilah kami dan orang-orang islam",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 19,
+      "repeat": 100,
+      "text": {
+        "arab": "لآ اِلٰهَ اِلاَّ اللهُ",
+        "latin": "Laa ilaa ha illallah"
+      },
+      "translation": {
+        "id": "Tiada tuhan yang disembah kecuali Allah",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 20,
+      "repeat": 1,
+      "text": {
+        "arab": "مُحَمَّدٌ رَسُوْلُ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ",
+        "latin": "Muhammaadur rasulullah shallallahu alaihi wasallam"
+      },
+      "translation": {
+        "id": "Nabi Muhammad Shallallahu Alaihi Wasallam utusan Allah",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 21,
+      "repeat": 7,
+      "text": {
+        "arab": "حَسْبُنَا اللهُ وَنِعْمَ الْوَكِيْلُ",
+        "latin": "Hasbunallahi wani’mal wakil"
+      },
+      "translation": {
+        "id": "Yang mencukupi kami adalah Allah dan sebaik-baik zat yang dipasrahi",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 22,
+      "repeat": 11,
+      "text": {
+        "arab": "اَللَّهُمَّ صَلِّ عَلٰى سَيِّدِنَا مُحَمَّدٍ. اَللَّهُمَّ صَلِّ عَلَيْهِ وَسَلِّمْ",
+        "latin": "Allahumma sholli ‘ala Sayyidina Muhammad, Allahumma sholli ‘alaihi wasallim"
+      },
+      "translation": {
+        "id": "Wahai Allah berilah rahmat atas Junjungan kami Muhammad, Yaa Allah limpahkan rahmat kepadanya dan sejahtera",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 23,
+      "repeat": 11,
+      "text": {
+        "arab": "اَسْتَغْفِرَاللهَ",
+        "latin": "Astaghfirullah"
+      },
+      "translation": {
+        "id": "Aku mohon ampun kepada Allah",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 24,
+      "repeat": 3,
+      "text": {
+        "arab": "تَائِبُوْنَ اِلَى اللهِ",
+        "latin": "Taa ibuu na Ilallaah"
+      },
+      "translation": {
+        "id": "Semoga aku termasuk golongan orang-orang yang bertobat kepada Allah",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 25,
+      "repeat": 3,
+      "text": {
+        "arab": "يَااَللهُ بِهَا. يَااَللهُ بِهَا. يَااَللهُ بِحُسْنِ اْلخَاتِمَةِ",
+        "latin": "Yaa Allah biha Yaa Allah biha  Yaa Allah bihusnil Khotimah"
+      },
+      "translation": {
+        "id": "Wahai Allah dengan kalimatMu, Wahai Allah dengan kalimatMu,Wahai Allah dengan kebaikan di akhir hayat",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 26,
+      "repeat": 1,
+      "text": {
+        "arab": "غُفْرَا نَكَ رَبَّنَا وَاِلَيْكَ اْلمَصِيْرُ لاَيُكَلِفُ اللهُ نَفْسًا اِلاَّ وُسُعَهَا. لَهَا مَاكَسَبَتْ وَعَلَيْهَا مَا اكَتَسَبَتْ. رَبَّنَا لاَ تُؤَا خِذْنَا اِنْ نَسِيْنَا اَوْاَخْطَأْ نَا رَبَّنَا وَلاَ تَحْمِلْ عَلَيْنَا اِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِيْنَ مِنْ قَبْلِنَا رَبَّنَا وَلاَ تُحَمِّلْنَا مَا لاَ طَا قَةَ لَنَا بِهِ وَاعْفُ عَنَّا وَاغْفِرْلَنَا وَارْحَمْنَا اَنْتَ مَوْلاَ نَا فَانْصُرْنَا عَلَى اْلقَوْمِ اْلكَا فِرِيْنَ",
+        "latin": "Ghufraanaka Rabbanaa wa ilaikal mashiir, Laa yukallifullahu nafsan Illa wus’ahaa, lahaa maa kasabat wa ‘alaihaa  maktasabat, Robbana  Laa tu –‘aakhidzna  in nasiinaa au akh thoknaa Robbana waala tahmil ‘alaina ishrong kamaa hamaltahu  ‘alal lasdzina ming qoblina Robbana walaa tuhammillnaa maa laa thoqotolanaa bih   Wa’fu ‘annaa waghfir lanaa warhamnaa anta maulaanaa fangsurnaa ‘alal qaumil kaafiriin"
+      },
+      "translation": {
+        "id": "Aku mohon ampunan-Mu wahai Tuhan kami, dan kepada-Mu lah tempat kembali. Tiada memaksa Allah kepada seseorang kecuali kadar kemampuanya, baginya apa yang dikerjakan,dan baginya siksa sesuatu dikerjakan/dilakukan Wahai Tuhan kami janganlah Engkau siksa aku bila mana aku lupa atau aku salah.Wahai Tuhan kami janganlah Engkau bebankan pada kami beban yang berat sebagimana Engkau bebankan pada orang-orang sebelum kami, Wahai Tuhan kami janganlah Engkau pikulkan pada kami, apa yang tak sanggup kami memikulnya, maafkanlah kami dan ampunilah kami dan Rahmatilah kami, Engkau penolong kami, maka tolonglah kami terhadap kaum yang kafir",
+        "en": "-"
+      }
+    }
+  ],
+  "post-tawassul": [
+    {
+      "sequence": 27,
+      "repeat": 1,
+      "text": {
+        "arab": "اَلْفَاتِحَةُ اِلَى رُوْحِ سَيِّدِنَاوَ حَبِيْبِنَاوَ شَفِيْعِنَ رَسُوْلِ اللهِ ,مُحَمَّدِ بِنْ عَبْدِاللهِ , وَاَلِهِ وَاَصْحَابِهِ وَاَزْوَاجِهِ وَذُرِّيَّتِهِ , اَنَّ اللهَ يُعْلىِ دَرَجَاتِهِمْ فِى اْلْجَنَّةِ وَ يَنْفَعُنَا بِاَسْرَارِ هِمْ وَاَنْوَارِهِمْ وَعُلُوْمِهِمْ فِى الدِّ يْنِ وَالدُّنْيَا وَاْلآ خِرَةِ وَيَجْعَلُنَا مِنْ حِزْ بِهِمْ وَيَرْزُ قُنَا مَحَبَّتَهُمْ وَيَتَوَفَّانَا عَلَى مِلَّتِهِمْ وَيَحْشُرُنَافِى زُمْرَ تِهِمْ . فِى خَيْرٍ وَ لُطْفٍ وَعَافِيَةٍ , بِسِرِ الْفَا تِحَةْ",
+        "latin": "Al Fatihah Illa ruuhi sayyidina wa habibina wa syafii’ina rosulillah,  Muhammad bin Abdillah. Wa aalihi wa ash ha bihi wa azwajihi wadzurriyyaatih, annallaaha yu’lii darajaathim fil jannati wa yangfa’unaa bi asrorihim wa anwaa ri him wa ‘uluu mihim fiiddini waddunya wal aakhiroti wayaj’alunaamin hizbihim wayarzuqunaa mahabbatahum wayatawafaanaa ‘alaa millatihim wayahsyurunaa fii zumrathim fii khoyrin waluthfin wa ‘aa fiyathin, bisiril fatihah"
+      },
+      "translation": {
+        "id": "-",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 28,
+      "repeat": 1,
+      "text": {
+        "arab": "اَلْفَاتِحَةُ اِلٰى رُوْحِ سَيِّدِنَا الْمُهَاجِرِ اِلَى اللهِ اَحْمَدْ بِنْ عِيْسٰى وَاِلٰى رُوْحِ سَيِّدِنَا الْفَقِيْهِ الْمُقَدَّمِ مُحَمَّدِ بْنِ عَلِيّ بَاعَلَوِيْ وَاُصُوْلِهِمَا وَفُرُوْعِهِمَاوَجَمِيْعِ سَادَاتِنَااٰلِ أَبِيْ عَلَوِيْ وَذَوِى الْحُقُوْقِ عَلَيْهِمْ اَجْمَعِيْنَ اَنَّ اللهَ يَغْفُرُ لَهُمْ وَيَرْ حَمُهُمْ وَيُعْلِيْ دَرَجَاتِهِمْ فِى الْجَنَّةِ , وَيَنْفَعُنَا بِبَرَكَاتِهِمْ وَاَسْرَارِهِمْ وَاَنْوَارِهِمْ وَعُلُوْمِهِمْ فِى الدِّيْنِ وَالدُّنْيَاوَاْلاَخِرَةِ. بِسِرِاَلْفَاتِحَةُ",
+        "latin": "Al Fatihah Illa ruhi sayyidinal muhajir illallah Ahmad bin ‘I sa wa illa ruuhi  sayyidnaa alfaqih muqoddam Muhammad bin ‘alii baa ‘Alawii wa ushuulihi wafuruu’ihim jamii’i saadaatinaa aali abii ‘alawii  Wadzawil huquuqi ‘alaihim ajma’iin.Annallaha yaghfiru lahum wayarhamuhum wayu’lii darajaatihim fil jannati wayanfa’unaa bibara kaatihim wa asraarihim wa anwaarihim wa’uluumihim fid diini wad dunyaa wal aakhirah bisiril fatihah"
+      },
+      "translation": {
+        "id": "",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 29,
+      "repeat": 1,
+      "text": {
+        "arab": "اَلْفَاتِحَةُ اِلَى رُوْحِ سَيِّدِنَا وَحَبِيْبِنَا وَبَرَكَاتِنَا صَاحِبِ الرَّاتِبِ قُطْبِ اْلاَنْفَاسِ اَلْحَبِيْبِ عُمَرْ بِنْ عَبْدِالرَّحْمَنِ الْعَطَّاسْ , ثُمَّ اِلَى رُوْحِ الشَّيْخِ عَلِيِّ بْنِ عَبْدِ اللهِ بَارَاسْ , ثُمَّ اِلَى رُوْحِ اَلْحَبِيْب عَبْدُالرَّحْمَنِ بِنْ عَقِيْل اَلْعَطَّاسْ , ثُمَّ اِلَى رُوْحِ اَلْحَبِيْب حُسَيْن بِنْ عُمَرْ اَلْعَطَّاسْ وَاِخْوَانِهِ ثُمَّ اِلَى رُوْحِ عَقِيْل وَعَبْدِ اللهِ وَصَا لِحْ بِنْ عَبْدُالرَّحْمَنِ اَلْعَطَّاسْ ثُمَّ اِلَى رُوْحِ اَلْحَبِيْب عَلِيِّ بْنِ حَسَنْ اَلْعَطَّاسْ ثُمَّ اِلَى رُوْحِ اَلْحَبِيْب اَحْمَدْ بِنْ حَسَنْ اَلْعَطَّاسْ وَاُصُوْلِهِمْ وَفُرُوْعِهِمْ وَذَوِى الْحُقُوْقِ عَلَيْهِمْ اَجْمَعِيْنَ اَنَّاللهَ يَغْفِرُ لَهُمْ وَيَرْ حَمُهُمْ وَيُعْلِى دَرَجَا تِهِمْ فِى الْجَنَّةِ وَيَنْفَعُنَا بِاَسْرَارِهِمْوَاَنْوَارِهِمْ وَعُلُوْ مِهِمْ وَنَفَحَا تِهِمْ فِى الدِّ يِنِ وَالدُّنْيَاوَاْلآخِرَةِ بِسِرِاَلْفَاتِحَةُ",
+        "latin": "Al Fatihah Ila ruhi sayyidina wa habibiina wa barookatinaa Shohiburrotib qutbil anfaas Al Habib ‘Umar Bin Abdurrohmann Al Athos, tsumma ila ruhi Syaikh ‘Ali Bin Abdillahi Baaros, tsumma ila ruhi Al Habib Abdurrahman bin ‘Aqil Al athos, tsumma ila ruhi Al Habib  Husain Bin Umar Al Athos, wa ikhwaa nihi tsumma ila ruuhi ‘aqiil wa abdillahi wa shoolih bin Abdurrahman Al Athas tsumma illa ruuhi Al Habib Ali Bin Husain Al Athos tsumma illa ruuhi Al Habib Ahman Bin Husain Al Athos  wa ushulihim wafuruu’ihim wadzawil huquuqi ‘alaihim ajmaniin. Annallaha  yaghfiru lahum wayarhahum wayu’lii darojatihim fil janah wayang fa’unaa bi asroorihim wa anwarihim wa’ulumihim wanafahaa tihim fiddini wad dunyaa wal aakhirat bisiril fatihah"
+      },
+      "translation": {
+        "id": "-",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 30,
+      "repeat": 1,
+      "text": {
+        "arab": "اَلْفَاتِحَةُ اِلَى اَرْوَحِ اْلاَوْالِيَاءِ وَالشُّهَدَاءِ وَالصَّا لِحِيْنَ . وَاْلاَ ئِمَّةِ الرَّاشِدِ يْنَ وَاِلَى اَرْوَاحِ وَالِدِيْنَا وَمَشَا يِخِنَا وَذَوِىالْحُقُوْقِ عَلَيْنَا وَعَلَيْهِمْ اَجْمَعِيْنَ , ثُمَّ اِلَى اَرْوَاحِ اَمْوَاتِ اَهْلِ هَذِهِ الْبَلْدَةِ مِنَ الْمُسْلِمِيْنَ وَ الْمُسْلِمَاتِ اَنَّ اللهَ يَغْفِرُلَهُمْ وَيَرْحَمُهُمْ وَيُعْلِى دَرَجَاتِهِمْ فِى الْجَنَّةِ وَيُعِيْدُ عَلَيْنَا مِنْ اَسْرَ ارِهِمْ وَانْوَ ارِهِمْ وَعُلُوْ مِهِمْ وَبَرَكَاتِهِمْ فِى الدِّ يْنِ وَالدُّ نْيَا وَاْلآ خِرَةِ . بِسِرِاَلْفَاتِحَةُ",
+        "latin": "Al Fatihah illa arwahiil Auliya-i wa syuhadaa-i wash Sholihiin. Wal aimmatil rasyidin wa illa arwaahi wa lidiinaa wa masya yikhinaa wa dzawil huquqi’alaihim ajmaiin, tsumma illa arwahi amwati ahli hadzihi albalda ti minal muslimiina wal muslimati annallaha yagfirulahum wa yar hamuhum wayu’li daro jaatihim fiil jannati wayu’idu alayna min asrorihim wanwarihim aw ulumihim wa barokaatihim fiddini wad dunyaa wal aakhirah bisiril fatihah"
+      },
+      "translation": {
+        "id": "",
+        "en": "-"
+      }
+    },
+    {
+      "sequence": 31,
+      "repeat": 1,
+      "text": {
+        "arab": "اَلْفَاتِحَةُ بِالْقَبُوْلِ وَتَمَامِ كُلِّ سُوْلٍ وَمَأْمُوْلٍ وَصَلاَحِ الشَّأْنِ ظَا هِرًا وَبَا طِنًافِى الدِّيْنِ وَالدُّنْيَا وَاْلآخِرَةِ دَافِعَةً لِكُلِّشَرٍّجَالِبَةً لِكُلِّ خَيْرٍ , لَنَا وَلِوَ الِدِيْنَا وَاَوْلاَدِنَاوَاَحْبَا بِنَا وَمَشَا ئِخِنَا فِى الدِّ يْنِ مَعَ اللُّطْفِ وَالْعَا فِيَةِ وَعَلَى نِيَّةِ اَنَّ اللهَ يُنَوِّرُ قُلُوْ بَنَا وَقَوَ الِبَنَا مَعَ الْهُدَى وَالتَّقَى وَالْعَفَافِ وَالْغِنَى . وَالْمَوْتِ عَلَى دِيْنِ اْلاِسَلاَمِ وَاْلاِ يْمَانِ بِلاَ مِحْنَةٍوَلاَ اِمْتِحَانٍ , بِحَقِّ سَيِّدِ نَاوَلَدِ عَدْ نَانِ , وَعَلَى كُلِّ نِيَّةٍ صَالِحَةٍ .وَاِلَى حَضْرَةِ النَِّبيِّ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَآلِهِ وَسَلَّمَ. بِسِرِاَلْفَاتِحَةُ",
+        "latin": "Al Fatihah bil qobuuli watamami kulli suulin wama’muuli wa sholaahi syaani dzohiron wa batinan fiddiin waddunya wal akhirooh daafi’atan likulli syarrrin jaalibatan likulli khairin lana waliwa lidina wa ‘aulaadinaa wa ahbabina wa masyaa ihina fiddiini ma’al luthfi wal ‘aafiyah wa ‘alaa niati Annallaha yunaw wirru quluu banaa waqowaa libanaa ma al huda wattaqo wal ‘afafi wal gina wal mauti ‘alaa dinil ISLAM wal IMAN bila mihnatin walaa imtihanin bihaqqi sayyidi waladi’ adani wa ’ala kullli niatin sholihatin wa ila hadrotin nabiyyil Muhammadin Shollallahu ‘alaihi wassalam bisiril fatihah"
+      },
+      "translation": {
+        "id": "",
+        "en": "-"
+      }
+    }
+  ],
+  "dua": {
+    "sequence": 32,
+    "repeat": 1,
+    "text": {
+      "arab": "بِسْمِ اللهِ الرَّ حْمَنِ الرَّ حِيْمِ. اَلْحَمْدُ لِلَّهِ رَبِّ الْعَا لَمِيْنَ حَمْدًا يُوَافِى نِعَمَهُ وَيُكَافِىءُ مَزِيْدَهُ, يَا رَبَّنَا لَكَ الْحَمْدُ كَمَا يَنْبَغِىْ لِجَلاَلِ وَجْهِكَ وَعَظِيْمِ سُلْطَا نِكْ, سُبْحَا نَكَ لاَ نُحْصِيْ ثَنَا ءً عَلَيْكَ اَنْتَ كَمَا اَثْنَيْتَ عَلَى نَفْسِكَ, فَلَكَ الْحَمْدُ حَتىَّ تَرْضَى, وَلَكَ الْحَمْدُ اِذَارَضِيْتَ, وَلَكَ الْحَمْدُ بَعْدَ الرِّضَى. اَللَّهُمَّ صَلِّ وَسَلِّمْ عَلَى سَيِّدِنَا مُحَمَّدٍ فِى اْلاَوَّلِيْنَ وَصَلِّ وَسَلِّمْ عَلَى سَيِّدِنّا مُحَمَّدٍ فِى اْلآ خِرِيْنَ وَصَلِّ وَسَلِّمْ عَلَى سَيِّدِنَا مُحَمَّدٍ فِى كُلِّ وَقْتٍ وَحِيْنٍ, وَصَلِّ وَسَلِّمْ عَلَى سَيِّدِنَا مُحَمَّدٍ فِى الْمَلَإِ اْلاَ عْلَى اِلَى يَوْمِ الدِّيْنِ, وَصَلِّ وَسَلِّمْ عَلَى سَيِّدِنَا مُحَمَّدٍ حَتىَّ تَرِثَ اْلاَرْضَ وَمَنْ عَلَيْهَا وَاَنْتَ خَيْرُ الْوَارِثِيْنَ. اَللَّهُمَّ اِنَّا نَسْتَحْفِظُكَ وَنَسْتَوْ دِعُكَ اَدْيَا نَنَا وَاَنْفُسَنَا وَاَمْوَ الَنَا وَاَهْلَنَا وَكُلَّ ثَيْءٍ اَعْطَيْتَنَا. اَللَّهُمَّ اجْعَلْنَا وَاِيَّا هُمْ فِى كَنَفِكَ وَاَمَانِكَ وَعِيَاذِكَ, مِنْ كُلِّ شَيْطَانٍ مَرِيْدٍ وَجَبَّارٍ عَنِيْدٍ وَذِىْ عَيْنٍ وَذِيْ بَغْيٍ وَذِيْ حَسَدٍ وَمِنْ شَرِّ كَلِّ ذِيْ شَرٍّ, اِنَّكَ عَلَى كُلِّ شّيْىءٍ قَدِيْرُ. اَللَّهُمَّ جَمِّلْنَا بِالْعَا فِيَةِ وَالسَّلاَ مَةِ, وَحَقِقْنَا بِااتَقْوَى وَاْلاِسْتِقَامَةِ وَاِعِذْنَا مِنْ مُوْ جِبَا تِ النَّدَا مَةِفِى اْلحَالِ وَاْلمَالِ, اِنَّكَ سَمِيْعُ الدُّعَاءِ. وَصَلِّ اللَّهُمَّ بِجَلاَلِكَ وَجَمَالِكَ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ وَصَحْبِهِ اَجْمَعِيْنَ, وَارْزُقْنَا كَمَالَ اْلمُتَا بَعَةِ لَهُ ظَا هِرًا وَبَا طِنًا يَا اَرْحَمَ الرَّاحِمِيْنَ, بِفَضْلِ سُبْحَانَ رَبِّكَ رَبِّ اْلعِزَّةِ عَمَّا يَصِفُوْنَ. وَسَلاَمُ عَلَى اْلمُرْسَلِيْنَ وَلْحَمْدُلِلَّهِ رَبِّ اْلعَالَمِيْنَ",
+      "latin": "Bismillaahir rohmaanir rohiim. Alhamdu lillahi robbil ‘aalamiin hamday yuwaafii ni’amahuu wayukaafi u maziidah, Ya Robbanaa lakal hamdu kamaa yambaghii lijalaali wajhika wali a’dzimil sul thoonik. Subbaanaka laa nuhsii tsanaa an’alaika anta kamaa atsnaita ‘alaa nafsik, falakal hamdu hatta tardo, walakal hamdu idza rodhiita walakal hamdu ba’dar ridhoo.Allaahumma sholi wasalim ‘alaa sayyidina Muhammadin fil awwalinWa sholi wasalim ‘alaa sayyidina Muhammadin fil aakhirinWa sholi wasalim ‘alaa sayyidina Muhammadin fil kulli waqtiwahiimWa sholi wasalim ‘alaa sayyidina Muhammadin hatta tarisal ardho waman ‘alaihaa wa anta khoirul waarisiin. Allahumma inna nastahfizshuka wanas taudi’uka adyaa nana wa angfusanaa wa ahlana wa auladana a wa amwaa lanaa wa kulla syaiin a’thoi tana.Allahumaj ‘alnaa wa iyyahum fii ka’nafika wa amaa nika wajiwaa rika wa’iyaa dzika ming kulli syaithonimmariid wajabrin ‘anid wa dzii ‘anid wadzi baghyin, wawing syarri kulli dzi syarrin innaka ‘ala kuli say ing qodiir. Allahumma jamilnaa bil ‘afiah wassalamah wa haqqiqiana bittaqwa wal istiqomah, wa aidnaa mim mujibaatin nadaamah, fil haal wal mal, innaka samii’uddua’. Wa shollillaahumma bijamalika wajalaa lika ‘alaa sayyidina Muhammadin wa’ala aalihi wa shoh bihi ajmaiin, warzuqnaa kamaalal muta ba’ati lahu zhohiron, bifadhli sub haana robbika robbil ‘izzati ‘amma yashifun, wasalaamun ‘alal mursalin, walhamdu lillahi Robbil ‘aalamiin"
+    },
+    "translation": {
+      "id": "",
+      "en": "-"
+    }
+  }
+}
