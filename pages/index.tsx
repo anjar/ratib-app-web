@@ -1,5 +1,7 @@
 import Head from 'next/head'
 import BaseLayout from 'layouts/Base';
+import HomepageInfo from "components/Homepage/HomepageInfo";
+import AppMenu from "components/Homepage/AppMenu";
 
 export default function Home() {
   return (
@@ -10,12 +12,8 @@ export default function Home() {
       </Head>
 
      
-        <h1 className="text-6xl font-bold">
-          Welcome to{' '}
-          <a className="text-blue-600" href="https://nextjs.org">
-            Next.js!
-          </a>
-        </h1>
+       <HomepageInfo />
+       <AppMenu />
 
         <p className="mt-3 text-2xl">
           Get started by editing{' '}
